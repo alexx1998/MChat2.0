@@ -1,0 +1,13 @@
+name: MChat
+version: 2.2
+main: com.mordonia.mchat.MChat
+api-version: 1.13
+authors: [AlexxSGames]
+description: A Chat plugin for Mordonia
+website: mordoniamc.com
+depend: [MCore]
+commands:
+  mchat:
+    description: Main plugin command.
+  togglechat:
+    desctiption: Toggles chat channels.

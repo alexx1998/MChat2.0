@@ -1,0 +1,26 @@
+general:
+  title: "&6[&9MChat&6]&r"
+  no-perm: "&4You don't have enough permission to use this command!"
+commands:
+  arg-error: "&4Not enough arguments!"
+  name-fail: "&4You already have your name set!"
+  name-success: "&2You set your name successfully!"
+  name-usage: "/mchat name [First name]"
+  set-name-usage: "/mchat set name [Username] [First name] [Last name]"
+  set-name-success: "&2You set the name successfully to: "
+  set-firstname-usage: "/mchat set firstname [Username] [First name]"
+  set-lastname-usage: "/mchat set lastname [Username] [Last name]"
+  set-kingdom-usage: "/mchat set kingdom [Username] [Kingdom]"
+  invalid-kingdom: "&4Kingdom not found!"
+  help-message: "&6Command List:"
+  kingdom-success: "&2Kingdom set successfully!"
+  kingdom-delete: "&2You have deleted the kingdom successfully!"
+  chatcolor-set: "&2Your chat color has been set successfully!"
+  kingdom-create-usage: "/mchat create kingdom [Name] [Color]"
+  kingdom-delete-usage: "/mchat delete kingdom [Name]"
+  kingdom-exists: "&4The kingdom already exists!"
+player:
+  not-found: "&4Player  was not found!"
+chat:
+  toggle-success: "&2Chat has been toggled!"
+  toggle-untoggle: "&wChat has been un-toggled!"
